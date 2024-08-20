@@ -37,7 +37,7 @@ The **Tech Hub Event Management System** is a command-line application built usi
 
 1. **Clone or Download the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/tech-hub-event-manager.git
+   git clone https://github.com/johadtech/Tech-Hub-Event-Manager.git
    cd tech-hub-event-manager
    ```
 
